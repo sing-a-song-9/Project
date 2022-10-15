@@ -1,0 +1,8 @@
+gunicorn==19.9.0
+numpy
+pandas
+catboost
+streamlit
+sklearn
+matplotlib
+joblib
